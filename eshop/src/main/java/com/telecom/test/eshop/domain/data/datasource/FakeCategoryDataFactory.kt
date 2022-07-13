@@ -1,4 +1,4 @@
-package com.telecom.test.eshop.data.datasource
+package com.telecom.test.eshop.domain.data.datasource
 
 import com.telecom.test.eshop.domain.model.Category
 

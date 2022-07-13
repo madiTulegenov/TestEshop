@@ -1,6 +1,6 @@
-package com.telecom.test.eshop.data.repository
+package com.telecom.test.eshop.domain.data.repository
 
-import com.telecom.test.eshop.data.datasource.FakeCategoryDataFactory
+import com.telecom.test.eshop.domain.data.datasource.FakeCategoryDataFactory
 import com.telecom.test.eshop.domain.model.Category
 import com.telecom.test.eshop.domain.repository.EshopRepository
 
